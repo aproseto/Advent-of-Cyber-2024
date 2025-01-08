@@ -24,7 +24,7 @@ Complete TryHackMe's Advent of Cyber 2024, with daily tasks starting December 1s
 - YARA to detect malicious patterns and bypass rule detection.
 - JQ within CMD to analyze logs.
 - Active Directory to investigate a malicious breach.
-- Splunk to analyze log using parsers and Search Processing Language (SPL).
+- Splunk to analyze logs using parsers and Search Processing Language (SPL).
 - Wireshark for traffic analysis.
 - Kubernetes for Digital Forensics and Incident Response (DFIR).
 
